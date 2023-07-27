@@ -105,16 +105,19 @@
 
 1. ### What is the difference between CSS and CSS3?
 
-Cascading Style Sheets, known as "CSS," is a Web design language that is used to control the look and feel of Web pages. The newest version of CSS is CSS3.
-In CSS3, we have new properties like border radius, box shadow, text shadow, multiple background images, gradient , animations, transition, transform etc.
-The main advantages of using CSS3 over any other previous versions of CSS are:
-CSS3 is less complex and easy to use as compared to the previous versions of CSS
-Browser support has been increased in CSS3.
-New concept of modules was introduced for the first time in CSS3.
-CSS3 supports responsive design, and can also handle media queries, whereas both the features are not supported in CSS.
-CSS3 is much more faster then all of its previous versions.
-New colors, including support for RGBA, HSLA, HSL and gradient colors, were added in CSS3.
-CSS3 has other added features such as new combinator, new CSS selectors, new pseudo- elements and new style properties.
+    Cascading Style Sheets, known as "CSS," is a Web design language that is used to control the look and feel of Web pages. The newest version of CSS is CSS3.
+
+    In CSS3, we have new properties like border radius, box shadow, text shadow, multiple background images, gradient , animations, transition, transform etc.
+
+    The main advantages of using CSS3 over any other previous versions of CSS are:
+
+    1. CSS3 is less complex and easy to use as compared to the previous versions of CSS
+    2. Browser support has been increased in CSS3.
+    3. New concept of modules was introduced for the first time in CSS3.
+    4. CSS3 supports responsive design, and can also handle media queries, whereas both the features are not supported in CSS.
+    5. CSS3 is much more faster then all of its previous versions.
+    6. New colors, including support for RGBA, HSLA, HSL and gradient colors, were added in CSS3.
+    7. CSS3 has other added features such as new combinator, new CSS selectors, new pseudo- elements and new style properties.
 
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -123,6 +126,7 @@ The main advantages of using CSS3 over any other previous versions of CSS are:
 
     The CSS box model is used to define the design and layout of elements of CSS.
     The elements are:
+
         1. Margin - It removes the area around the border. It is transparent.
         2. Border - It represents the area around the padding
         3. Padding - It removes the area around the content. It is transparent.
@@ -190,12 +194,16 @@ The main advantages of using CSS3 over any other previous versions of CSS are:
 
     Media query is a CSS technique introduced in CSS3.
     It uses the @media rule to include a block of CSS properties only if a certain condition is true.
-    Example
-    If the browser window is 600px or smaller, the background color will be lightblue:
-    @media only screen and (max-width: 600px) {
-      body {
-        background-color: lightblue;
-      }
-    }
+    
+    ** Example: ** If the browser window is 600px or smaller, the background color will be lightblue:
+    
+        ```
+            @media only screen and (max-width: 600px) {
+              body {
+                background-color: lightblue;
+              }
+            }
+            
+        ```
 
     **[⬆ Back to Top](#table-of-contents)**
