@@ -96,20 +96,19 @@
     Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
     Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
     
-
-    1. <article>
-    2. <aside>
-    3. <details>
-    4. <figcaption>
-    5. <figure>
-    6. <footer>
-    7. <header>
-    8. <main>
-    9. <mark>
-    10. <nav>
-    11. <section>
-    12. <summary>
-    13. <time>
+    1. article
+    2. aside
+    3. details
+    4. figcaption
+    5. figure
+    6. footer
+    7. header
+    8. main
+    9. mark
+    10. nav
+    11. section
+    12. summary
+    13. time
 
     ![Alt text](image.png)
 
