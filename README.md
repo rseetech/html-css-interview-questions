@@ -58,24 +58,21 @@
 
 2. ### HTML Formatting Elements
 
-    In the previous chapter, you learned about the HTML style attribute.
-
     HTML also defines special elements for defining text with a special meaning.
+    HTML uses elements like `<b>` and `<i>` for formatting output, like bold or italic text.
 
-    HTML uses elements like <b> and <i> for formatting output, like bold or italic text.
-    
     Formatting elements were designed to display special types of text:
 
-    1. <b> - Bold text
-    2. <strong> - Important text
-    3. <i> - Italic text
-    4. <em> - Emphasized text
-    5. <mark> - Marked text
-    6. <small> - Small text
-    7. <del> - Deleted text
-    8. <ins> - Inserted text
-    9. <sub> - Subscript text
-    10. <sup> - Superscript text
+    1. b - Bold text
+    2. strong - Important text
+    3. i - Italic text
+    4. em - Emphasized text
+    5. mark - Marked text
+    6. small - Small text
+    7. del - Deleted text
+    8. ins - Inserted text
+    9. sub - Subscript text
+    10. sup - Superscript text
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -112,7 +109,18 @@
     12. summary
     13. time
 
+
     ![Alt text](image.png)
+
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+
+5. ### Differences Between SVG and Canvas
+
+    SVG is a language for describing 2D graphics in XML. 
+    Canvas draws 2D graphics, on the fly (with a JavaScript). 
+    SVG is XML based, which means that every element is available within the SVG DOM.
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -211,13 +219,10 @@
     
     ** Example: ** If the browser window is 600px or smaller, the background color will be lightblue:
     
-        ```
-            @media only screen and (max-width: 600px) {
-              body {
-                background-color: lightblue;
-              }
-            }
-            
-        ```
+    @media only screen and (max-width: 600px) {
+      body {
+        background-color: lightblue;
+      }
+    }
 
     **[⬆ Back to Top](#table-of-contents)**
