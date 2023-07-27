@@ -29,11 +29,15 @@
 | 1   | [What is the difference between HTML and HTML5](#what-is-the-difference-between-html-and-html5)   |
 | 2   | [HTML Formatting Elements](#html-formatting-elements)    |
 | 3   | [Difference between strong and bold HTML tags are](#difference-between-strong-and-bold-html-tags-are)|
-| 4   | [What are Semantic Elements](#what-are-semantic-elements)            
-| 4   | [What is the difference between CSS and CSS3](#what-are-semantic-elements)            
-| 4   | [What is the CSS Box model and what are its elements](#what-are-semantic-elements)            
-| 4   | [Write all the position states used in CSS.](#what-are-semantic-elements)            
-| 4   | [Enlist the various fonts attributes](#what-are-semantic-elements)            
+| 4   | [What are Semantic Elements](#what-are-semantic-elements)|            
+| 5   | [What is the difference between CSS and CSS3](#what-is-the-difference-between-css-and-css3)|         
+| 6   | [What is the CSS Box model and what are its elements](#what-is-the-css-box-model-and-what-are-its-elements)  |          
+| 7   | [Explain the difference between visibility hidden and display none](#explain-the-difference-between-visibility-hidden-and-display-none) |
+| 8   | [Name all the modules which are used in the current version of CSS](#name-all-the-modules-which-are-used-in-the-current-version-of-css)  |
+| 9   | [Write all the properties of flexbox](#write-all-the-properties-of-flexbox)|            
+| 10   | [Write all the position states used in CSS](#write-all-the-position-states-used-in-css)|            
+| 11  | [Enlist the various fonts attributes](#enlist-the-various-fonts-attributes)|            
+| 12   | [What is a Media Query](#what-is-a-media-query)|            
 
 1. ###  What is the difference between HTML and HTML5
 
@@ -103,6 +107,8 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
+## CSS
+
 1. ### What is the difference between CSS and CSS3?
 
     Cascading Style Sheets, known as "CSS," is a Web design language that is used to control the look and feel of Web pages. The newest version of CSS is CSS3.
@@ -119,31 +125,30 @@
     6. New colors, including support for RGBA, HSLA, HSL and gradient colors, were added in CSS3.
     7. CSS3 has other added features such as new combinator, new CSS selectors, new pseudo- elements and new style properties.
 
-
 **[⬆ Back to Top](#table-of-contents)**
 
-1. ### What is the CSS Box model and what are its elements?
+2. ### What is the CSS Box model and what are its elements
 
     The CSS box model is used to define the design and layout of elements of CSS.
     The elements are:
 
-        1. Margin - It removes the area around the border. It is transparent.
-        2. Border - It represents the area around the padding
-        3. Padding - It removes the area around the content. It is transparent.
-        4. Content - It represents the content like text, images, etc.
+    1. Margin - It removes the area around the border. It is transparent.
+    2. Border - It represents the area around the padding
+    3. Padding - It removes the area around the content. It is transparent.
+    4. Content - It represents the content like text, images, etc.
 
     ![Alt text](image-1.png)
     
     **[⬆ Back to Top](#table-of-contents)**
 
-1. ### Explain the difference between visibility: hidden and display: none?
+3. ### Explain the difference between visibility: hidden and display: none
 
     **visibility:** hidden hides the element, but it occupies space and affects the layout of the document.
     **display:** none also hides the element but not occupy space. It will not affect the layout of the document.
 
     **[⬆ Back to Top](#table-of-contents)**
 
-1. ### Name all the modules which are used in the current version of CSS.
+4. ### Name all the modules which are used in the current version of CSS
 
     1. Selectors
     2. Box Model
@@ -156,7 +161,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-1. ### Write all the properties of flexbox.
+5. ### Write all the properties of flexbox
 
     Answer: There are several properties of flexbox that are used in the HTML webpage.
     They are:
@@ -169,7 +174,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-1. ### Write all the position states used in CSS.
+6. ### Write all the position states used in CSS
 
     1. Static(default)
     2. Relative = next to first div.
@@ -178,7 +183,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-1. ### Enlist the various fonts’ attributes
+7. ### Enlist the various fonts attributes
 
     1. Font-style
     2. Font-variant
@@ -190,7 +195,7 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
-2. ### What is a Media Query?
+8. ### What is a Media Query
 
     Media query is a CSS technique introduced in CSS3.
     It uses the @media rule to include a block of CSS properties only if a certain condition is true.
