@@ -31,7 +31,7 @@
 | 3   | [Difference between strong and bold HTML tags are](#difference-between-strong-and-bold-html-tags-are)|
 | 4   | [What are Semantic Elements](#what-are-semantic-elements)| 
 
-###CSS 
+### CSS 
 
 | 5   | [What is the difference between CSS and CSS3](#what-is-the-difference-between-css-and-css3)|         
 | 6   | [What is the CSS Box model and what are its elements](#what-is-the-css-box-model-and-what-are-its-elements)  |          
