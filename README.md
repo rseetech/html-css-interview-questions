@@ -81,11 +81,13 @@
 
 3. ### Difference between strong and bold HTML tags are
 
-    <strong>  - Defines important text
-    <b>	    - Defines bold text
+    strong  - Defines important text
 
-    HTML <strong> element defines strong text, with added semantic ‘strong’ importance.
-    HTML <b> element defines bold text, without any ‘extra’ importance.
+    b	    - Defines bold text
+
+    HTML `<strong>` element defines strong text, with added semantic ‘strong’ importance.
+
+    HTML `<b>` element defines bold text, without any ‘extra’ importance.
 
     **[⬆ Back to Top](#table-of-contents)**
 
