@@ -47,30 +47,35 @@
 1. ###  What is the difference between HTML and HTML5
 
     HTML or Hyper-Text Markup Language can be referred to as the World wide Web’s primary language. HTML has  many updates over time, and currently, the newest HTML version is HTML5. Some of the major differences between the two versions are:
-        1. HTML5 supports both audio and video whereas none of these was a part of HTML
-        2. HTML does not allow JavaScript to run within the web browser whereas HTML5 provides full support for JavaScript to run in the background.
-        3. In HTML5, inline MathML and SVG can be used in text whereas this wasn’t possible in HTML.
-        4. HTML5 supports new kinds of form controls, for example: dates and times, email, number, range, tel, url, search etc.
-        5. There are many new elements introduced in HTML5. Some of the most important ones are: summary, time, audio, details, embed, figcaption, figure, footer, header, article, canvas, nav, output, section, source, track, video, etc..
+
+    1. HTML5 supports both audio and video whereas none of these was a part of HTML
+    2. HTML does not allow JavaScript to run within the web browser whereas HTML5 provides full support for JavaScript to run in the background.
+    3. In HTML5, inline MathML and SVG can be used in text whereas this wasn’t possible in HTML.
+    4. HTML5 supports new kinds of form controls, for example: dates and times, email, number, range, tel, url, search etc.
+    5. There are many new elements introduced in HTML5. Some of the most important ones are: summary, time, audio, details, embed, figcaption, figure, footer, header, article, canvas, nav, output, section, source, track, video, etc..
 
     **[⬆ Back to Top](#table-of-contents)**
 
 2. ### HTML Formatting Elements
 
     In the previous chapter, you learned about the HTML style attribute.
+
     HTML also defines special elements for defining text with a special meaning.
+
     HTML uses elements like <b> and <i> for formatting output, like bold or italic text.
-        Formatting elements were designed to display special types of text:
-        1. <b> - Bold text
-        2. <strong> - Important text
-        3. <i> - Italic text
-        4. <em> - Emphasized text
-        5. <mark> - Marked text
-        6. <small> - Small text
-        7. <del> - Deleted text
-        8. <ins> - Inserted text
-        9. <sub> - Subscript text
-        10. <sup> - Superscript text
+    
+    Formatting elements were designed to display special types of text:
+
+    1. <b> - Bold text
+    2. <strong> - Important text
+    3. <i> - Italic text
+    4. <em> - Emphasized text
+    5. <mark> - Marked text
+    6. <small> - Small text
+    7. <del> - Deleted text
+    8. <ins> - Inserted text
+    9. <sub> - Subscript text
+    10. <sup> - Superscript text
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -91,24 +96,22 @@
     Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
     Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
     
-        ```
-        <article>
-        <aside>
-        <details>
-        <figcaption>
-        <figure>
-        <footer>
-        <header>
-        <main>
-        <mark>
-        <nav>
-        <section>
-        <summary>
-        <time>
 
-        ```
+    1. <article>
+    2. <aside>
+    3. <details>
+    4. <figcaption>
+    5. <figure>
+    6. <footer>
+    7. <header>
+    8. <main>
+    9. <mark>
+    10. <nav>
+    11. <section>
+    12. <summary>
+    13. <time>
 
-        ![Alt text](image.png)
+    ![Alt text](image.png)
 
     **[⬆ Back to Top](#table-of-contents)**
 
