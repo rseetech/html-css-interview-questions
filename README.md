@@ -118,8 +118,10 @@
 
 5. ### Differences Between SVG and Canvas
 
-    SVG is a language for describing 2D graphics in XML. 
+    SVG is a language for describing 2D graphics in XML.
+
     Canvas draws 2D graphics, on the fly (with a JavaScript). 
+
     SVG is XML based, which means that every element is available within the SVG DOM.
 
     **[⬆ Back to Top](#table-of-contents)**
@@ -161,6 +163,7 @@
 3. ### Explain the difference between visibility: hidden and display: none
 
     **visibility:** hidden hides the element, but it occupies space and affects the layout of the document.
+    
     **display:** none also hides the element but not occupy space. It will not affect the layout of the document.
 
     **[⬆ Back to Top](#table-of-contents)**
