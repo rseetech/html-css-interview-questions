@@ -29,7 +29,10 @@
 | 1   | [What is the difference between HTML and HTML5](#what-is-the-difference-between-html-and-html5)   |
 | 2   | [HTML Formatting Elements](#html-formatting-elements)    |
 | 3   | [Difference between strong and bold HTML tags are](#difference-between-strong-and-bold-html-tags-are)|
-| 4   | [What are Semantic Elements](#what-are-semantic-elements)|            
+| 4   | [What are Semantic Elements](#what-are-semantic-elements)| 
+
+###CSS 
+
 | 5   | [What is the difference between CSS and CSS3](#what-is-the-difference-between-css-and-css3)|         
 | 6   | [What is the CSS Box model and what are its elements](#what-is-the-css-box-model-and-what-are-its-elements)  |          
 | 7   | [Explain the difference between visibility hidden and display none](#explain-the-difference-between-visibility-hidden-and-display-none) |
