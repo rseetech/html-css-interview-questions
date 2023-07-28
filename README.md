@@ -163,7 +163,7 @@
 3. ### Explain the difference between visibility: hidden and display: none
 
     **visibility:** hidden hides the element, but it occupies space and affects the layout of the document.
-    
+
     **display:** none also hides the element but not occupy space. It will not affect the layout of the document.
 
     **[⬆ Back to Top](#table-of-contents)**
@@ -227,5 +227,52 @@
         background-color: lightblue;
       }
     }
+
+    **[⬆ Back to Top](#table-of-contents)**
+
+9. ### What are Pseudo-classes?
+
+    A pseudo-class is used to define a special state of an element.
+
+    For example, it can be used to:
+
+    Style an element when a user mouses over it
+    Style visited and unvisited links differently
+    Style an element when it gets focus
+
+    a:link {
+        color: #FF0000;
+    }
+    a:visited {
+        color: #00FF00;
+    }
+    a:hover {
+        color: #FF00FF;
+    }
+    a:active {
+        color: #0000FF;
+    }
+
+    <!DOCTYPE html>
+    <html>
+        <head>
+            <style>
+            p:first-child {
+                color: blue;
+            } 
+            p:nth-child(2) {
+                color: red;
+            }
+            </style>
+        </head>
+        <body>
+            <p>This is some text.</p>
+            <p>This is some text.</p>
+            <div>
+                <p>This is some text.</p>
+                <p>This is some text.</p>
+            </div>
+        </body>
+    </html>
 
     **[⬆ Back to Top](#table-of-contents)**
