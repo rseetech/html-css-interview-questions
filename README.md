@@ -56,6 +56,22 @@
 
     **[⬆ Back to Top](#table-of-contents)**
 
+2. ### Diff between Div and Span
+
+    div is a block element  
+    
+    span is an inline element.
+
+    Definition and Usage
+
+    1. The <span> tag is an inline container used to mark up a part of a text, or a part of a document.
+
+    2. The <span> tag is easily styled by CSS or manipulated with JavaScript using the class or id attribute.
+
+    3. The <span> tag is much like the <div> element, but <div> is a block-level element and <span> is an inline element.
+
+    **[⬆ Back to Top](#table-of-contents)**
+
 2. ### HTML Formatting Elements
 
     HTML also defines special elements for defining text with a special meaning.
