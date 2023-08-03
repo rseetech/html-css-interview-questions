@@ -106,8 +106,8 @@
 
     A semantic element clearly describes its meaning to both the browser and the developer.
 
-    Examples of non-semantic elements: <div> and <span> - Tells nothing about its content.
-    Examples of semantic elements: <form>, <table>, and <article> - Clearly defines its content.
+    Examples of non-semantic elements: `<div>` and `<span>` - Tells nothing about its content.
+    Examples of semantic elements: `<form>`, `<table>`, and `<article>` - Clearly defines its content.
     
     1. article
     2. aside
@@ -213,7 +213,8 @@
     1. Static(default)
     2. Relative = next to first div.
     3. Fixed
-    4. Absolute = overlap 
+    4. Absolute = overlap
+    5. sticky
 
     **[⬆ Back to Top](#table-of-contents)**
 
