@@ -236,12 +236,13 @@
     It uses the @media rule to include a block of CSS properties only if a certain condition is true.
     
     ** Example: ** If the browser window is 600px or smaller, the background color will be lightblue:
-    
+    ```
     @media only screen and (max-width: 600px) {
       body {
         background-color: lightblue;
       }
     }
+    ```
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -254,7 +255,7 @@
     Style an element when a user mouses over it
     Style visited and unvisited links differently
     Style an element when it gets focus
-
+    ```
     a:link {
         color: #FF0000;
     }
@@ -267,6 +268,7 @@
     a:active {
         color: #0000FF;
     }
+    
 
     <!DOCTYPE html>
     <html>
@@ -289,6 +291,7 @@
             </div>
         </body>
     </html>
+    ```
 
     **[⬆ Back to Top](#table-of-contents)**
 
@@ -303,6 +306,7 @@
 
     Absolute length units are not recommended for use on screen, because screen sizes vary so much. However, they can be used if the output medium is known, such as for print layout.
 
+    ```
     Unit	Description
     cm	    centimeters
     mm	    millimeters
@@ -310,11 +314,13 @@
     px *	pixels (1px = 1/96th of 1in)
     pt	    points (1pt = 1/72 of 1in)
     pc	    picas (1pc = 12 pt)
+    ```
 
     #### Relative Lengths
 
     Relative length units specify a length relative to another length property. Relative length units scale better between different rendering medium.
 
+    ```
     Unit	Description	
     em	    Relative to the font-size of the element (2em means 2 times the size of the current font)	
     ex	    Relative to the x-height of the current font (rarely used)	
@@ -325,7 +331,7 @@
     vmin	Relative to 1% of viewport's* smaller dimension	
     vmax	Relative to 1% of viewport's* larger dimension	
     %	    Relative to the parent element
-
+    ```
+    
     **[⬆ Back to Top](#table-of-contents)**
 
-    **[⬆ Back to Top](#table-of-contents)**
